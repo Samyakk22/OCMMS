@@ -26,7 +26,7 @@ The system simplifies digital distribution of academic resources by providing a 
 - Add & Manage Classes, Courses, Subjects  
 - Upload PDF Study Materials  
 - User Registration & Login  
-- Download Course Materials  
+- Download Course Material 
 - Dashboard with Statistics  
 
 ---
