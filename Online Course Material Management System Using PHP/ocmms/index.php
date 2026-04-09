@@ -51,7 +51,7 @@
 				    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				      	<ul class="nav navbar-nav mu-menu navbar-right">
 					        <li><a href="index.php">HOME</a></li>
-					        <li><a href="user/signin.php">USER</a></li>
+					        <li><a href="user/signin.php">USERS</a></li>
 					        <li><a href="admin/signin.php">ADMIN</a></li>
 				      	</ul>
 				    </div><!-- /.navbar-collapse -->
